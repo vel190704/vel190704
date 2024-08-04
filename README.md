@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Manivel K
+- 👀 I’m interested in ML and Core Electronics
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on ML related projects
+- 📫 How to reach me:Reach me by mail (@manivelkarpagavelgmail.com)
+- 
